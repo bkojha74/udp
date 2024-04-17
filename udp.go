@@ -1,4 +1,4 @@
-package udpackage
+package udp
 
 import "fmt"
 
